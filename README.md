@@ -22,7 +22,7 @@ A valid NewsAPI key
 Clone the Repository:
 
 
-git clone https://github.com/your-repo/news-summarizer-assistant.git
+git clone https://github.com/News-assistant/news-summarizer-assistant.git
 cd news-summarizer-assistant
 Install Dependencies:
 
