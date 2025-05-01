@@ -23,7 +23,9 @@ Clone the Repository:
 
 
 git clone https://github.com/yashdubeyy/News-assistant.git
+
 cd news-summarizer-assistant
+
 Install Dependencies:
 
 
